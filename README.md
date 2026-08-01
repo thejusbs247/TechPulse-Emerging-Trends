@@ -1,0 +1,1 @@
+TechPulse is an AI-powered web platform that continuously monitors the internet to identify emerging technologies, research breakthroughs, startup innovations, and industry trends. Instead of users manually reading hundreds of articles, TechPulse automatically collects, analyzes, summarizes, and visualizes important developments.
