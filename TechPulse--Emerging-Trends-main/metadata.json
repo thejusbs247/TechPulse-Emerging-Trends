@@ -1,0 +1,6 @@
+{
+  "name": "TechPulse Intelligence",
+  "description": "AI-powered intelligence platform providing real-time technology forecasts, trend analytics, global innovation mapping, and interactive research insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
